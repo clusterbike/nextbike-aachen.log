@@ -1,0 +1,1193 @@
+{
+ "stations": [
+  {
+   "is_virtual_station": false,
+   "lat": 50.768714,
+   "lon": 6.105958,
+   "name": "Neumarkt ",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=604641772",
+    "ios": "https://app.nextbike.net/station?id=604641772",
+    "web": "https://nxtb.it/p/604641772"
+   },
+   "short_name": "56116",
+   "station_id": "604641772"
+  },
+  {
+   "capacity": 8,
+   "is_virtual_station": false,
+   "lat": 50.77611,
+   "lon": 6.080183,
+   "name": "Annuntiatenbach",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605871611",
+    "ios": "https://app.nextbike.net/station?id=605871611",
+    "web": "https://nxtb.it/p/605871611"
+   },
+   "short_name": "56005",
+   "station_id": "605871611"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.714984,
+   "lon": 6.141061,
+   "name": "Pascalstraße 57",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605871858",
+    "ios": "https://app.nextbike.net/station?id=605871858",
+    "web": "https://nxtb.it/p/605871858"
+   },
+   "short_name": "56012",
+   "station_id": "605871858"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.780052,
+   "lon": 6.050785,
+   "name": "Forckenbeckstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605872019",
+    "ios": "https://app.nextbike.net/station?id=605872019",
+    "web": "https://nxtb.it/p/605872019"
+   },
+   "short_name": "56032",
+   "station_id": "605872019"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.768464,
+   "lon": 6.102305,
+   "name": "Frankenberger Park",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605872120",
+    "ios": "https://app.nextbike.net/station?id=605872120",
+    "web": "https://nxtb.it/p/605872120"
+   },
+   "short_name": "56036",
+   "station_id": "605872120"
+  },
+  {
+   "capacity": 15,
+   "is_virtual_station": false,
+   "lat": 50.768005,
+   "lon": 6.090111,
+   "name": "Hauptbahnhof",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605872338",
+    "ios": "https://app.nextbike.net/station?id=605872338",
+    "web": "https://nxtb.it/p/605872338"
+   },
+   "short_name": "56047",
+   "station_id": "605872338"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.774293,
+   "lon": 6.101401,
+   "name": "Frankenstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605872611",
+    "ios": "https://app.nextbike.net/station?id=605872611",
+    "web": "https://nxtb.it/p/605872611"
+   },
+   "short_name": "56086",
+   "station_id": "605872611"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.784095,
+   "lon": 6.043737,
+   "name": "Campus Boulevard",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605872701",
+    "ios": "https://app.nextbike.net/station?id=605872701",
+    "web": "https://nxtb.it/p/605872701"
+   },
+   "short_name": "56091",
+   "station_id": "605872701"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.795534,
+   "lon": 6.126746,
+   "name": "Haaren-Markt",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605872881",
+    "ios": "https://app.nextbike.net/station?id=605872881",
+    "web": "https://nxtb.it/p/605872881"
+   },
+   "short_name": "56043",
+   "station_id": "605872881"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.768349,
+   "lon": 6.083681,
+   "name": "Mozartstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605873112",
+    "ios": "https://app.nextbike.net/station?id=605873112",
+    "web": "https://nxtb.it/p/605873112"
+   },
+   "short_name": "56087",
+   "station_id": "605873112"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.78393,
+   "lon": 6.09827,
+   "name": "Carolus Thermen",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605873203",
+    "ios": "https://app.nextbike.net/station?id=605873203",
+    "web": "https://nxtb.it/p/605873203"
+   },
+   "short_name": "56020",
+   "station_id": "605873203"
+  },
+  {
+   "capacity": 15,
+   "is_virtual_station": false,
+   "lat": 50.774281,
+   "lon": 6.108533,
+   "name": "Josefskirche",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605873360",
+    "ios": "https://app.nextbike.net/station?id=605873360",
+    "web": "https://nxtb.it/p/605873360"
+   },
+   "short_name": "56056",
+   "station_id": "605873360"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.757744,
+   "lon": 6.084423,
+   "name": "FH - Eupener Straße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605873544",
+    "ios": "https://app.nextbike.net/station?id=605873544",
+    "web": "https://nxtb.it/p/605873544"
+   },
+   "short_name": "56029",
+   "station_id": "605873544"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.764573,
+   "lon": 6.080643,
+   "name": "FH Goethestraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605873644",
+    "ios": "https://app.nextbike.net/station?id=605873644",
+    "web": "https://nxtb.it/p/605873644"
+   },
+   "short_name": "56030",
+   "station_id": "605873644"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.758255,
+   "lon": 6.07899,
+   "name": "Maria-Theresia-Allee",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605873718",
+    "ios": "https://app.nextbike.net/station?id=605873718",
+    "web": "https://nxtb.it/p/605873718"
+   },
+   "short_name": "56038",
+   "station_id": "605873718"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.763965,
+   "lon": 6.150419,
+   "name": "Neuenhofstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605873824",
+    "ios": "https://app.nextbike.net/station?id=605873824",
+    "web": "https://nxtb.it/p/605873824"
+   },
+   "short_name": "56041",
+   "station_id": "605873824"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.774668,
+   "lon": 6.095809,
+   "name": "Kaiserplatz",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605873930",
+    "ios": "https://app.nextbike.net/station?id=605873930",
+    "web": "https://nxtb.it/p/605873930"
+   },
+   "short_name": "56057",
+   "station_id": "605873930"
+  },
+  {
+   "capacity": 9,
+   "is_virtual_station": false,
+   "lat": 50.775095,
+   "lon": 6.082542,
+   "name": "Klosterplatz",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605874029",
+    "ios": "https://app.nextbike.net/station?id=605874029",
+    "web": "https://nxtb.it/p/605874029"
+   },
+   "short_name": "56060",
+   "station_id": "605874029"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.778469,
+   "lon": 6.086289,
+   "name": "Martinstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605874107",
+    "ios": "https://app.nextbike.net/station?id=605874107",
+    "web": "https://nxtb.it/p/605874107"
+   },
+   "short_name": "56066",
+   "station_id": "605874107"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.772294,
+   "lon": 6.080516,
+   "name": "Mörgensstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605874243",
+    "ios": "https://app.nextbike.net/station?id=605874243",
+    "web": "https://nxtb.it/p/605874243"
+   },
+   "short_name": "56069",
+   "station_id": "605874243"
+  },
+  {
+   "capacity": 5,
+   "is_virtual_station": false,
+   "lat": 50.770496,
+   "lon": 6.073221,
+   "name": "Schanz",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605874310",
+    "ios": "https://app.nextbike.net/station?id=605874310",
+    "web": "https://nxtb.it/p/605874310"
+   },
+   "short_name": "56078",
+   "station_id": "605874310"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.780577,
+   "lon": 6.092386,
+   "name": "Eurogress",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605874396",
+    "ios": "https://app.nextbike.net/station?id=605874396",
+    "web": "https://nxtb.it/p/605874396"
+   },
+   "short_name": "56080",
+   "station_id": "605874396"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.773765,
+   "lon": 6.086619,
+   "name": "Elisenbrunnen",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605874567",
+    "ios": "https://app.nextbike.net/station?id=605874567",
+    "web": "https://nxtb.it/p/605874567"
+   },
+   "short_name": "56082",
+   "station_id": "605874567"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.77781,
+   "lon": 6.08849,
+   "name": "Komphausbadstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605874684",
+    "ios": "https://app.nextbike.net/station?id=605874684",
+    "web": "https://nxtb.it/p/605874684"
+   },
+   "short_name": "56083",
+   "station_id": "605874684"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.775857,
+   "lon": 6.09104,
+   "name": "Willy-Brandt-Platz",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605874759",
+    "ios": "https://app.nextbike.net/station?id=605874759",
+    "web": "https://nxtb.it/p/605874759"
+   },
+   "short_name": "56108",
+   "station_id": "605874759"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.778133,
+   "lon": 6.093265,
+   "name": "Hansemannplatz",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605874838",
+    "ios": "https://app.nextbike.net/station?id=605874838",
+    "web": "https://nxtb.it/p/605874838"
+   },
+   "short_name": "56045",
+   "station_id": "605874838"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.781009,
+   "lon": 6.075597,
+   "name": "Audimax",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605874890",
+    "ios": "https://app.nextbike.net/station?id=605874890",
+    "web": "https://nxtb.it/p/605874890"
+   },
+   "short_name": "56081",
+   "station_id": "605874890"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.790718,
+   "lon": 6.096709,
+   "name": "Tivoli",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605874954",
+    "ios": "https://app.nextbike.net/station?id=605874954",
+    "web": "https://nxtb.it/p/605874954"
+   },
+   "short_name": "56004",
+   "station_id": "605874954"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.770433,
+   "lon": 6.116488,
+   "name": "Bahnhof Rothe Erde",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605875014",
+    "ios": "https://app.nextbike.net/station?id=605875014",
+    "web": "https://nxtb.it/p/605875014"
+   },
+   "short_name": "56011",
+   "station_id": "605875014"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.745949,
+   "lon": 6.087653,
+   "name": "Diepenbenden",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605875287",
+    "ios": "https://app.nextbike.net/station?id=605875287",
+    "web": "https://nxtb.it/p/605875287"
+   },
+   "short_name": "56022",
+   "station_id": "605875287"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.779557,
+   "lon": 6.101009,
+   "name": "digitalHUB",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605875365",
+    "ios": "https://app.nextbike.net/station?id=605875365",
+    "web": "https://nxtb.it/p/605875365"
+   },
+   "short_name": "56023",
+   "station_id": "605875365"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.789078,
+   "lon": 6.048899,
+   "name": "E.ON ERC",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605875438",
+    "ios": "https://app.nextbike.net/station?id=605875438",
+    "web": "https://nxtb.it/p/605875438"
+   },
+   "short_name": "56025",
+   "station_id": "605875438"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.76037,
+   "lon": 6.09383,
+   "name": "Burtscheid",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605875510",
+    "ios": "https://app.nextbike.net/station?id=605875510",
+    "web": "https://nxtb.it/p/605875510"
+   },
+   "short_name": "56027",
+   "station_id": "605875510"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.763492,
+   "lon": 6.052873,
+   "name": "Am Friedrich",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605875585",
+    "ios": "https://app.nextbike.net/station?id=605875585",
+    "web": "https://nxtb.it/p/605875585"
+   },
+   "short_name": "56035",
+   "station_id": "605875585"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.769311,
+   "lon": 6.077911,
+   "name": "Hubertusplatz",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605875658",
+    "ios": "https://app.nextbike.net/station?id=605875658",
+    "web": "https://nxtb.it/p/605875658"
+   },
+   "short_name": "56052",
+   "station_id": "605875658"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.76631,
+   "lon": 6.093318,
+   "name": "ISEA Jägerstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605875730",
+    "ios": "https://app.nextbike.net/station?id=605875730",
+    "web": "https://nxtb.it/p/605875730"
+   },
+   "short_name": "56054",
+   "station_id": "605875730"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.778267,
+   "lon": 6.08184,
+   "name": "Pontstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605875810",
+    "ios": "https://app.nextbike.net/station?id=605875810",
+    "web": "https://nxtb.it/p/605875810"
+   },
+   "short_name": "56055",
+   "station_id": "605875810"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.773541,
+   "lon": 6.083935,
+   "name": "Kleinmarschierstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605875869",
+    "ios": "https://app.nextbike.net/station?id=605875869",
+    "web": "https://nxtb.it/p/605875869"
+   },
+   "short_name": "56059",
+   "station_id": "605875869"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.765974,
+   "lon": 6.060665,
+   "name": "Kronenberg",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605875936",
+    "ios": "https://app.nextbike.net/station?id=605875936",
+    "web": "https://nxtb.it/p/605875936"
+   },
+   "short_name": "56062",
+   "station_id": "605875936"
+  },
+  {
+   "capacity": 8,
+   "is_virtual_station": false,
+   "lat": 50.78149,
+   "lon": 6.10295,
+   "name": "Nordbahnhof",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605876020",
+    "ios": "https://app.nextbike.net/station?id=605876020",
+    "web": "https://nxtb.it/p/605876020"
+   },
+   "short_name": "56071",
+   "station_id": "605876020"
+  },
+  {
+   "capacity": 8,
+   "is_virtual_station": false,
+   "lat": 50.77699,
+   "lon": 6.067811,
+   "name": "Studentendorf",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=605876075",
+    "ios": "https://app.nextbike.net/station?id=605876075",
+    "web": "https://nxtb.it/p/605876075"
+   },
+   "short_name": "56090",
+   "station_id": "605876075"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.78224,
+   "lon": 6.071099,
+   "name": "Bendplatz",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=606822872",
+    "ios": "https://app.nextbike.net/station?id=606822872",
+    "web": "https://nxtb.it/p/606822872"
+   },
+   "short_name": "56013",
+   "station_id": "606822872"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.753234,
+   "lon": 6.158831,
+   "name": "Brander Bahnhof",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=606823086",
+    "ios": "https://app.nextbike.net/station?id=606823086",
+    "web": "https://nxtb.it/p/606823086"
+   },
+   "short_name": "56016",
+   "station_id": "606823086"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.748675,
+   "lon": 6.163342,
+   "name": "Brander Markt",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=606823305",
+    "ios": "https://app.nextbike.net/station?id=606823305",
+    "web": "https://nxtb.it/p/606823305"
+   },
+   "short_name": "56017",
+   "station_id": "606823305"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.832584,
+   "lon": 6.045743,
+   "name": "Horbach Gut Rosenberg",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=606823448",
+    "ios": "https://app.nextbike.net/station?id=606823448",
+    "web": "https://nxtb.it/p/606823448"
+   },
+   "short_name": "56051",
+   "station_id": "606823448"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.768445,
+   "lon": 6.08797,
+   "name": "Marschiertor",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=606823568",
+    "ios": "https://app.nextbike.net/station?id=606823568",
+    "web": "https://nxtb.it/p/606823568"
+   },
+   "short_name": "56085",
+   "station_id": "606823568"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.770488,
+   "lon": 6.026792,
+   "name": "Vaals Grenze",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=606823682",
+    "ios": "https://app.nextbike.net/station?id=606823682",
+    "web": "https://nxtb.it/p/606823682"
+   },
+   "short_name": "56101",
+   "station_id": "606823682"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.772329,
+   "lon": 6.070775,
+   "name": "Westpark",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=606823774",
+    "ios": "https://app.nextbike.net/station?id=606823774",
+    "web": "https://nxtb.it/p/606823774"
+   },
+   "short_name": "56107",
+   "station_id": "606823774"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.773765,
+   "lon": 6.116371,
+   "name": "Kennedypark",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=606823955",
+    "ios": "https://app.nextbike.net/station?id=606823955",
+    "web": "https://nxtb.it/p/606823955"
+   },
+   "short_name": "56111",
+   "station_id": "606823955"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.785075,
+   "lon": 6.130126,
+   "name": "ASEAG",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611419590",
+    "ios": "https://app.nextbike.net/station?id=611419590",
+    "web": "https://nxtb.it/p/611419590"
+   },
+   "short_name": "56006",
+   "station_id": "611419590"
+  },
+  {
+   "capacity": 5,
+   "is_virtual_station": false,
+   "lat": 50.796282,
+   "lon": 6.124627,
+   "name": "Bezirksamt Haaren",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611431136",
+    "ios": "https://app.nextbike.net/station?id=611431136",
+    "web": "https://nxtb.it/p/611431136"
+   },
+   "short_name": "56015",
+   "station_id": "611431136"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.775215,
+   "lon": 6.163528,
+   "name": "Breitbenden/Franz-Delheid-Straße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611431266",
+    "ios": "https://app.nextbike.net/station?id=611431266",
+    "web": "https://nxtb.it/p/611431266"
+   },
+   "short_name": "56018",
+   "station_id": "611431266"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.774684,
+   "lon": 6.085875,
+   "name": "Ursulinerstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611431555",
+    "ios": "https://app.nextbike.net/station?id=611431555",
+    "web": "https://nxtb.it/p/611431555"
+   },
+   "short_name": "56021",
+   "station_id": "611431555"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.75538,
+   "lon": 6.143542,
+   "name": "Driescher Hof",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611431918",
+    "ios": "https://app.nextbike.net/station?id=611431918",
+    "web": "https://nxtb.it/p/611431918"
+   },
+   "short_name": "56024",
+   "station_id": "611431918"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.764341,
+   "lon": 6.115715,
+   "name": "Euregiozoo",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611432224",
+    "ios": "https://app.nextbike.net/station?id=611432224",
+    "web": "https://nxtb.it/p/611432224"
+   },
+   "short_name": "56026",
+   "station_id": "611432224"
+  },
+  {
+   "capacity": 12,
+   "is_virtual_station": false,
+   "lat": 50.793614,
+   "lon": 6.10018,
+   "name": "Finanzamt",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611432701",
+    "ios": "https://app.nextbike.net/station?id=611432701",
+    "web": "https://nxtb.it/p/611432701"
+   },
+   "short_name": "56031",
+   "station_id": "611432701"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.773405,
+   "lon": 6.089727,
+   "name": "Grenzlandtheater",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611436319",
+    "ios": "https://app.nextbike.net/station?id=611436319",
+    "web": "https://nxtb.it/p/611436319"
+   },
+   "short_name": "56040",
+   "station_id": "611436319"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.768496,
+   "lon": 6.092693,
+   "name": "Hackländerstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611436972",
+    "ios": "https://app.nextbike.net/station?id=611436972",
+    "web": "https://nxtb.it/p/611436972"
+   },
+   "short_name": "56044",
+   "station_id": "611436972"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.771452,
+   "lon": 6.092675,
+   "name": "Harscampstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611437068",
+    "ios": "https://app.nextbike.net/station?id=611437068",
+    "web": "https://nxtb.it/p/611437068"
+   },
+   "short_name": "56046",
+   "station_id": "611437068"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.768844,
+   "lon": 6.09752,
+   "name": "Haus der Städteregion",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611437187",
+    "ios": "https://app.nextbike.net/station?id=611437187",
+    "web": "https://nxtb.it/p/611437187"
+   },
+   "short_name": "56048",
+   "station_id": "611437187"
+  },
+  {
+   "capacity": 12,
+   "is_virtual_station": false,
+   "lat": 50.777942,
+   "lon": 6.061124,
+   "name": "Sammelbau Informatik 2",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611438590",
+    "ios": "https://app.nextbike.net/station?id=611438590",
+    "web": "https://nxtb.it/p/611438590"
+   },
+   "short_name": "56053",
+   "station_id": "611438590"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.711788,
+   "lon": 6.139833,
+   "name": "KISTERS AG Pascalstraße 8",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611438751",
+    "ios": "https://app.nextbike.net/station?id=611438751",
+    "web": "https://nxtb.it/p/611438751"
+   },
+   "short_name": "56058",
+   "station_id": "611438751"
+  },
+  {
+   "capacity": 12,
+   "is_virtual_station": false,
+   "lat": 50.728777,
+   "lon": 6.177942,
+   "name": "Kornelimünster Schulberg",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611439133",
+    "ios": "https://app.nextbike.net/station?id=611439133",
+    "web": "https://nxtb.it/p/611439133"
+   },
+   "short_name": "56063",
+   "station_id": "611439133"
+  },
+  {
+   "capacity": 12,
+   "is_virtual_station": false,
+   "lat": 50.767904,
+   "lon": 6.077713,
+   "name": "Luisenhospital Aachen",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611439273",
+    "ios": "https://app.nextbike.net/station?id=611439273",
+    "web": "https://nxtb.it/p/611439273"
+   },
+   "short_name": "56064",
+   "station_id": "611439273"
+  },
+  {
+   "capacity": 6,
+   "is_virtual_station": false,
+   "lat": 50.768387,
+   "lon": 6.09477,
+   "name": "Normaluhr",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611440227",
+    "ios": "https://app.nextbike.net/station?id=611440227",
+    "web": "https://nxtb.it/p/611440227"
+   },
+   "short_name": "56072",
+   "station_id": "611440227"
+  },
+  {
+   "capacity": 12,
+   "is_virtual_station": false,
+   "lat": 50.740162,
+   "lon": 6.047564,
+   "name": "Preuswald",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611440577",
+    "ios": "https://app.nextbike.net/station?id=611440577",
+    "web": "https://nxtb.it/p/611440577"
+   },
+   "short_name": "56074",
+   "station_id": "611440577"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.811031,
+   "lon": 6.06081,
+   "name": "Richterich Markt",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611441143",
+    "ios": "https://app.nextbike.net/station?id=611441143",
+    "web": "https://nxtb.it/p/611441143"
+   },
+   "short_name": "56076",
+   "station_id": "611441143"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.777306,
+   "lon": 6.077388,
+   "name": "Templergraben",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611441672",
+    "ios": "https://app.nextbike.net/station?id=611441672",
+    "web": "https://nxtb.it/p/611441672"
+   },
+   "short_name": "56079",
+   "station_id": "611441672"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.774523,
+   "lon": 6.043582,
+   "name": "UKA - Verwaltung",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611443385",
+    "ios": "https://app.nextbike.net/station?id=611443385",
+    "web": "https://nxtb.it/p/611443385"
+   },
+   "short_name": "56097",
+   "station_id": "611443385"
+  },
+  {
+   "capacity": 5,
+   "is_virtual_station": false,
+   "lat": 50.789339,
+   "lon": 6.112025,
+   "name": "umlaut SE",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611443806",
+    "ios": "https://app.nextbike.net/station?id=611443806",
+    "web": "https://nxtb.it/p/611443806"
+   },
+   "short_name": "56099",
+   "station_id": "611443806"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.796755,
+   "lon": 6.155263,
+   "name": "Verlautenheide Endstraße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611444067",
+    "ios": "https://app.nextbike.net/station?id=611444067",
+    "web": "https://nxtb.it/p/611444067"
+   },
+   "short_name": "56102",
+   "station_id": "611444067"
+  },
+  {
+   "capacity": 5,
+   "is_virtual_station": false,
+   "lat": 50.786389,
+   "lon": 6.050618,
+   "name": "VKA",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611444540",
+    "ios": "https://app.nextbike.net/station?id=611444540",
+    "web": "https://nxtb.it/p/611444540"
+   },
+   "short_name": "56103",
+   "station_id": "611444540"
+  },
+  {
+   "capacity": 15,
+   "is_virtual_station": false,
+   "lat": 50.7805,
+   "lon": 6.06815,
+   "name": "Mies-van-der-Rohe-Straße",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611444927",
+    "ios": "https://app.nextbike.net/station?id=611444927",
+    "web": "https://nxtb.it/p/611444927"
+   },
+   "short_name": "56106",
+   "station_id": "611444927"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.79468,
+   "lon": 6.057681,
+   "name": "Viadukt Laurensberg",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611446466",
+    "ios": "https://app.nextbike.net/station?id=611446466",
+    "web": "https://nxtb.it/p/611446466"
+   },
+   "short_name": "56112",
+   "station_id": "611446466"
+  },
+  {
+   "capacity": 5,
+   "is_virtual_station": false,
+   "lat": 50.746887,
+   "lon": 6.157633,
+   "name": "Schwimmhalle Brand",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=611446581",
+    "ios": "https://app.nextbike.net/station?id=611446581",
+    "web": "https://nxtb.it/p/611446581"
+   },
+   "short_name": "56113",
+   "station_id": "611446581"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.754338,
+   "lon": 6.102484,
+   "name": "Karl-Marx-Allee 220",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=625703985",
+    "ios": "https://app.nextbike.net/station?id=625703985",
+    "web": "https://nxtb.it/p/625703985"
+   },
+   "short_name": "56146",
+   "station_id": "625703985"
+  },
+  {
+   "capacity": 5,
+   "is_virtual_station": false,
+   "lat": 50.779381,
+   "lon": 6.12093,
+   "name": "Hirsch-Center",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=631149385",
+    "ios": "https://app.nextbike.net/station?id=631149385",
+    "web": "https://nxtb.it/p/631149385"
+   },
+   "short_name": "56129",
+   "station_id": "631149385"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.784683,
+   "lon": 6.155077,
+   "name": "Hansmannstraße - Bahnhof Eilendorf",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=631165127",
+    "ios": "https://app.nextbike.net/station?id=631165127",
+    "web": "https://nxtb.it/p/631165127"
+   },
+   "short_name": "56147",
+   "station_id": "631165127"
+  },
+  {
+   "capacity": 10,
+   "is_virtual_station": false,
+   "lat": 50.704878,
+   "lon": 6.178166,
+   "name": "Jakob-Büchel-Haus",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=631168232",
+    "ios": "https://app.nextbike.net/station?id=631168232",
+    "web": "https://nxtb.it/p/631168232"
+   },
+   "short_name": "56130",
+   "station_id": "631168232"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.781155,
+   "lon": 6.071571,
+   "name": "Westbahnhof",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=640662493",
+    "ios": "https://app.nextbike.net/station?id=640662493",
+    "web": "https://nxtb.it/p/640662493"
+   },
+   "short_name": "56149",
+   "station_id": "640662493"
+  },
+  {
+   "is_virtual_station": false,
+   "lat": 50.779862,
+   "lon": 6.081399,
+   "name": "Driescher Gässchen ",
+   "region_id": "1250",
+   "rental_uris": {
+    "android": "https://app.nextbike.net/station?id=651211159",
+    "ios": "https://app.nextbike.net/station?id=651211159",
+    "web": "https://nxtb.it/p/651211159"
+   },
+   "short_name": "56123",
+   "station_id": "651211159"
+  }
+ ]
+}
