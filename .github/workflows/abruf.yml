@@ -2,19 +2,18 @@ name: Abruf Nextbike Aachen
 
 on:
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    # alle 30 Minuten starten, jeder Lauf dauert ca. 50 Minuten
+    # -> Läufe überlappen sich, ein verspäteter oder ausgefallener Start wird aufgefangen
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
-concurrency:
-  group: abruf
-  cancel-in-progress: false
-
 jobs:
   abruf:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - name: Repository holen
         uses: actions/checkout@v6
@@ -27,13 +26,25 @@ jobs:
       - name: Paket installieren
         run: pip install requests
 
-      - name: Daten abrufen
-        run: python abruf_einmal.py
+      - name: Daten abrufen (Schleife)
+        run: python abruf_schleife.py
 
       - name: Ergebnis speichern
+        if: always()
         run: |
           git config user.name "abruf-bot"
           git config user.email "abruf-bot@users.noreply.github.com"
           git add data
-          git diff --staged --quiet || git commit -m "Daten $(date -u +'%Y-%m-%d %H:%M')"
-          git push
+          if git diff --staged --quiet; then
+            echo "nichts zu speichern"
+            exit 0
+          fi
+          git commit -m "Daten $(date -u +'%Y-%m-%d %H:%M')"
+          for i in 1 2 3 4 5 6; do
+            if git pull --rebase && git push; then
+              exit 0
+            fi
+            sleep $((RANDOM % 15 + 5))
+          done
+          echo "Push fehlgeschlagen"
+          exit 1
