@@ -28,8 +28,6 @@ jobs:
 
       - name: Daten abrufen (Schleife)
         run: python abruf_schleife.py
-        env:
-          DAUER_MIN: "2" 
 
       - name: Ergebnis speichern
         if: always()
