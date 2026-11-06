@@ -925,21 +925,6 @@
    "station_id": "611439133"
   },
   {
-   "capacity": 12,
-   "is_virtual_station": false,
-   "lat": 50.767904,
-   "lon": 6.077713,
-   "name": "Luisenhospital Aachen",
-   "region_id": "1250",
-   "rental_uris": {
-    "android": "https://app.nextbike.net/station?id=611439273",
-    "ios": "https://app.nextbike.net/station?id=611439273",
-    "web": "https://nxtb.it/p/611439273"
-   },
-   "short_name": "56064",
-   "station_id": "611439273"
-  },
-  {
    "capacity": 6,
    "is_virtual_station": false,
    "lat": 50.768387,
